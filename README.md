@@ -28,7 +28,7 @@ cd utilisateur-anime
 3. Exécutez le script:
 
 ```bash
-python main.py
+python scraping.py
 ```
 
 ## Fonctionnement
